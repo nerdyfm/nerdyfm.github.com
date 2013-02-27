@@ -34,7 +34,7 @@ a:hover
 #header
 {
   padding: 10px 10px 5px 10px;
-  background-color: white;
+  background-color: black;
   color: #55f;
   -moz-border-radius-topright: 15px;
   -moz-border-radius-topleft: 15px;
@@ -60,6 +60,7 @@ a:hover
 #bottom_header_row a
 {
   color: white;
+  background-color: black;
 }
 
 #bottom_header_row a:hover
